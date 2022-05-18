@@ -7,9 +7,9 @@ namespace LinkedList
        public static void Main(string[] args)
         {
             /* Start with the empty list. */
-            LengthOfLinkedList llist = new LengthOfLinkedList();
+            //LengthOfLinkedList llist = new LengthOfLinkedList();
 
-            llist.val = 1;
+            //llist.val = 1;
 
 
         }
